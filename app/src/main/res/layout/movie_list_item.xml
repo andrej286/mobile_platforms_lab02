@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/movieIdText"
+        android:layout_width="0px"
+        android:layout_weight="1"
+        android:textSize="10sp"
+        android:layout_height="wrap_content"
+        android:text="TextViewPlaceholder"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/movieTitleText"
+        android:layout_width="0px"
+        android:layout_weight="1"
+        android:textSize="10sp"
+        android:layout_height="wrap_content"
+        android:text="TextViewPlaceholder"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/movieDirectorText"
+        android:layout_width="0px"
+        android:layout_weight="1"
+        android:textSize="10sp"
+        android:layout_height="wrap_content"
+        android:text="TextViewPlaceholder"
+        android:layout_margin="10dp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
